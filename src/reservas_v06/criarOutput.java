@@ -1,4 +1,4 @@
-package video80;
+package reservas_v06;
 
 import java.io.*;
 import java.lang.*;

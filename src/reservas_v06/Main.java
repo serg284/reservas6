@@ -1,6 +1,5 @@
-package video80;
+package reservas_v06;
 
-//video80 , default
 public class Main {
 
     public static void main(String[] args) {
