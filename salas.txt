@@ -1,2 +1,2 @@
-10 aa bbbb 100
-20 ler salas 200
+10 linha1col2 linha1col3 100
+20 linha2col2 linha2col3 200

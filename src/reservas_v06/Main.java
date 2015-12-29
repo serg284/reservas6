@@ -19,6 +19,9 @@ public class Main {
         r.readFile();
         r.closeFile();
 
+        
+        
+        
         //criarOutput
         System.out.println("*** comeca criarOutput ***");
         criarOutput g = new criarOutput();

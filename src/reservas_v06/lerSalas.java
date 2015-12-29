@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.Scanner;
 
 public class lerSalas {
-    private Scanner x ;
+    public Scanner x ;
 
     public void openFile(){
         try{
@@ -25,10 +25,11 @@ public class lerSalas {
             System.out.printf("%s %s %s %s\n", a,b,c,d);
         }
     }
+    
+    
+
     public void closeFile() {
         x.close();
     }
-
-
 
 }
